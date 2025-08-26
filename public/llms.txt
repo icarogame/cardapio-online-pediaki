@@ -1,0 +1,4 @@
+## Pages
+- [Acesso à Demonstração - MenuFlow](/demoaccess): Acesse o ambiente de demonstração do MenuFlow com credenciais pré-definidas.
+- [Cadastro - Crie sua Conta no MenuFlow](/signup): Complete seu cadastro para começar a usar o MenuFlow e transformar seu negócio.
+- [Planos e Preços - MenuFlow](/pricing): Escolha o plano perfeito para o seu restaurante. Opções flexíveis para todos os tamanhos de negócio, com teste grátis de 30 dias.
